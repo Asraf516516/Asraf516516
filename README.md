@@ -41,18 +41,10 @@
 
 ## 📂 Featured Projects
 
-### 🔐 Tamper-Evident Logging System
-A secure logging project using SHA-256 hashing to detect log tampering.
-
-### 🕵️ Honeypot-Based Deception Security System
-A basic honeypot for monitoring unauthorized access attempts.
-
-### 🌐 Network Port Scanner
-A Python-based port scanner for identifying open TCP ports.
-
-### 🎣 Phishing URL Detection System
-A project to detect suspicious and potentially malicious URLs.
-
+- 🔐 [Tamper-Evident Logging System](https://github.com/Asraf516516/Tamper-Evident-Logging-System)
+- 🕵️ [Honeypot-Based Deception Security System](https://github.com/Asraf516516/Honeypot-Based-Deception-Security-System)
+- 🌐 [Network Port Scanner](https://github.com/Asraf516516/Network-Port-Scanner)
+- 🎣 [Phishing URL Detection System](https://github.com/Asraf516516/Phishing-URL-Detection-System)
 ---
 
 ## 🎯 Career Objective
