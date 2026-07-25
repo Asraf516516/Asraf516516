@@ -67,7 +67,7 @@ I am seeking internship opportunities in Cybersecurity, Network Security, and SO
 
 - LinkedIn: https://www.linkedin.com/in/asraf-uchhusagari-00b362380
 - GitHub: https://github.com/Asraf516516
-- Email: your-email@example.com
+- Email: asrarasrar41891@gmail.com
 
 ---
 
